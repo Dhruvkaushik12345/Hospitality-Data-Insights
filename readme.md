@@ -40,4 +40,5 @@ Tourism Demographics and Revenue Dashboard for Hospitality Analytics
  4. Conclusion: 
  The dashboard shows customer profiles, seasonal demand, and financial strengths.
  • Helps hotels find the most profitable customer groups and set the best prices.
+
  • Gives useful information that can be used to make marketing campaigns and occupancy more efficient.cupancy more efficient.      
